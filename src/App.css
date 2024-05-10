@@ -1,0 +1,27 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.card {
+  padding: 2em;
+}
+
+/* input[name="grade"] {
+  margin-right: 20px;
+}
+
+input[name="percentage"] {
+  margin-right: 20px;
+} */
+
+button[name="Add Field"] {
+  margin-top: 20px;
+}
+
+input {
+  margin-top: 20px;
+  margin-right: 20px;
+}

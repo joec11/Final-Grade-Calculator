@@ -9,6 +9,7 @@ button[name="Add Another Grade"],
 button[name="Remove Field"],
 button[name="Add Field"],
 div[name="Final Grade"],
+div[name="Section Grade"],
 input {
   margin-top: 20px;
 }

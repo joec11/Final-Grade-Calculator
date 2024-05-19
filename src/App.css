@@ -5,17 +5,38 @@
   text-align: center;
 }
 
-button[name="Add Another Grade"],
-button[name="Remove Field"],
-button[name="Add Field"],
-div[name="Final Grade"],
-div[name="Section Grade"],
-input {
+button[name^="Add"] {
   margin-top: 20px;
+  margin-right: 20px;
 }
 
-button[name="Add Another Grade"],
-label[name="result"],
+button[name="Add Field"]:hover {
+  background-color: #2196F3;
+  border-color: #2196F3;
+}
+
+button[name="Add Another Grade"]:hover {
+  background-color: #4CAF50;
+  border-color: #4CAF50;
+}
+
+button[name="Remove Field"] {
+  margin-top: 30px;
+}
+
+button[name^="Remove"]:hover {
+  background-color: #FF5252;
+  border-color: #FF5252;
+}
+
+div[name="Section Grade"],
+div[name="Final Grade"],
 input {
+  margin-top: 20px;
   margin-right: 20px;
+}
+
+hr {
+  border-color: black;
+  margin-top: 20px;
 }

@@ -1,11 +1,30 @@
 # Final Grade Calculator
 
-This application calculates the final grade for a student.
+This application allows the user to create multiple grade sections which are used to calculate the overall final numeric grade.
 
 ## Built Using
-- ReactJs
-- NodeJs
-- Vite
+- Front-End JavaScript Library:
+  - React
+<p>
+
+- JavaScript Runtime Environment:
+  - Node.js
+<p>
+
+- Markup Language:
+  - HTML
+<p>
+
+- Programming Language:
+  - JavaScript
+<p>
+
+- Style Sheet Language:
+  - CSS
+<p>
+
+- Local Development Server:
+  - Vite
 
 ## Linux Commands Used to Set Up the Project
 sudo apt update && sudo apt upgrade<br>

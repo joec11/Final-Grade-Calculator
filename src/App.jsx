@@ -125,6 +125,7 @@ function App() {
                 <label>{input.sectionResult} / {input.sectionPercentage} = <b>{input.sectionAverage}</b></label>
               </div>
             )}
+            {inputFields.length > 1 && <hr />}
           </div>
         ))}
       </form>

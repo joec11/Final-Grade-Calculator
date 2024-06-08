@@ -1,0 +1,9 @@
+version: "3.8"
+services:
+  reactapp:
+    build: .
+    container_name: final_grade_calculator_c
+    ports:
+      - '8000:8000'
+    stdin_open: true
+    tty: true

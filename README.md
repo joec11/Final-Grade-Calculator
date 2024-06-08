@@ -1,6 +1,6 @@
 # Final Grade Calculator
 
-This application allows the user to create multiple grade sections which are used to calculate the overall final numeric grade.
+Organize grades into multiple sections to compute the final numeric grade.
 
 ## Built Using
 - Front-End JavaScript Library:
